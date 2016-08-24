@@ -1,0 +1,21 @@
+{
+  "name": "cilindros",
+  "description": "Paquetes del front end de mi pimer proyecto",
+  "main": "globals",
+  "authors": [
+    "Luis ALberto Andrade Dominguez"
+  ],
+  "license": "MIT",
+  "homepage": "cilindros.app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+    "bootstrap-material-design": "^4.0.2"
+  }
+}
